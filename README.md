@@ -1,5 +1,5 @@
 # React Input Number
-The simplest numerical component for React. If you get bored numerical problem in html input, it is suits you perfectly.
+The simplest numerical component for React. If you get bored numerical conversion and other problems in html input, it is suits you perfectly.
 
 ## Screenshots
 
